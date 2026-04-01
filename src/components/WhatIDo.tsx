@@ -90,8 +90,8 @@ const WhatIDo = () => {
               <h3>DEVELOP</h3>
               <h4>Description</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae.
+               I build responsive and high-performance web applications using modern technologies like React, TypeScript, and Three.js. 
+My focus is on smooth animations, clean UI, and optimized user experience.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
@@ -131,8 +131,8 @@ const WhatIDo = () => {
               <h3>DESIGN</h3>
               <h4>Description</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae
+                I design modern and visually appealing interfaces using Figma and Photoshop, 
+                focusing on user-friendly layouts and premium aesthetics.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">

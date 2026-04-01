@@ -6,9 +6,9 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-          dolores numquam iusto Ratione earum ducimus autem id iure pariatur
-          dolorum quae maiores.
+          I am Tanmoy Dey, a passionate web developer and creative designer from India.
+I specialize in building modern websites using React, TypeScript, and Three.js.
+I love creating smooth animations, interactive UI, and premium portfolio experiences.
         </p>
       </div>
     </div>
