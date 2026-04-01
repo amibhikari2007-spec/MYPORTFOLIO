@@ -1,5 +1,3 @@
-// src/types/gsap-trial.d.ts
-
 declare module 'gsap-trial/SplitText' {
   class SplitText {
     constructor(
